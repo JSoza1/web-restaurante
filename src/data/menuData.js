@@ -6,47 +6,47 @@ export const menuData = [
       {
         "name": "MUZZARELLA",
         "description": "Mozzarella, salsa, aceitunas y orégano",
-        "price": "$14000"
+        "price": "$15000"
       },
       {
         "name": "ESPECIAL",
         "description": "Muzza, salsa, jamón, pimientos, aceitunas y orégano",
-        "price": "$16000"
+        "price": "$17000"
       },
       {
         "name": "ESPECIAL ANCHOAS",
         "description": "Muzza, salsa, jamón, anchoas, pimientos, aceitunas y orégano",
-        "price": "$18000"
+        "price": "$19000"
       },
       {
         "name": "ESPECIAL HUEVO",
         "description": "Muzza, salsa, huevo, jamón, pimiento, aceitunas y orégano",
-        "price": "$17000"
+        "price": "$18000"
       },
       {
         "name": "FUGAZZETA",
         "description": "Muzza, salsa, cebolla salteada al pimentón, aceitunas y orégano",
-        "price": "$15000"
+        "price": "$16000"
       },
       {
         "name": "NAPOLITANA ESPECIAL",
         "description": "Muzza, salsa, tomate en rodajas, jamón en tiras, parmesano, orégano y aceitunas",
-        "price": "$15000"
+        "price": "$17000"
       },
       {
         "name": "NAPOLITANA CON AJO",
         "description": "Muzza, salsa, tomate en rodajas, ajo fresco, parmesano, aceitunas y orégano",
-        "price": "$15000"
+        "price": "$16000"
       },
       {
         "name": "CUATRO QUESOS",
         "description": "Muzza, salsa, roquefort, queso cuartirolo, parmesano, aceituna y orégano",
-        "price": "$18000"
+        "price": "$19000"
       },
       {
         "name": "ROQUEFORT",
         "description": "Muzza, salsa, queso roquefort, aceitunas y orégano",
-        "price": "$17000"
+        "price": "$18000"
       },
       {
         "name": "ANANA",
@@ -66,27 +66,27 @@ export const menuData = [
       {
         "name": "PALMITOS",
         "description": "Muzza, salsa, palmitos en cubo, salsa golf, aceitunas y orégano",
-        "price": "$17000"
+        "price": "$18000"
       },
       {
         "name": "CALABREZA",
         "description": "Muzza, salsa, calabresa, queso parmesano, pimientos, orégano y aceitunas",
-        "price": "$19000"
+        "price": "$20000"
       },
       {
         "name": "SUPER POLLO",
         "description": "Muzza, salsa, pollo en hebras, salsa kétchup, roquefort, aceitunas y orégano",
-        "price": "$20000"
+        "price": "$22000"
       },
       {
         "name": "BOMBA",
         "description": "Muzza, salsa, mayonesa, papas fritas, huevos fritos, aceitunas y orégano",
-        "price": "$19000"
+        "price": "20000"
       },
       {
         "name": "MARISCOS",
         "description": "Gambas, mejillones, tentáculos, media valva, salsa tomate, muzza",
-        "price": "$20000"
+        "price": "25000"
       }
     ]
   },

@@ -144,7 +144,7 @@ export const menuData = [
       {
         "name": "RABAS",
         "description": "Tubo de calamar rebozado, papas fritas, salsas y limones",
-        "price": "23000"
+        "price": "25000"
       },
       {
         "name": "TABLA DE MARISCOS (2 personas)",
@@ -165,27 +165,27 @@ export const menuData = [
       {
         "name": "LOMO AL PLATO COMPLETO",
         "description": "Lomito de ternera, jamón, queso, huevos, lechuga, tomate y papas",
-        "price": "$17000"
+        "price": "$18000"
       },
       {
         "name": "SANDWICH DE LOMO DE TERNERA",
         "description": "Lomito de ternera, jamón, queso, huevo, lechuga y tomate frescos, mayonesa. (Pan árabe o francés)",
-        "price": "$17000"
+        "price": "$19000"
       },
       {
         "name": "SANDWICH DE LOMO CRIOLLO",
         "description": "Lomito de ternera, jamón, queso, huevo, cebolla y pimiento salteado con salsa criolla, mayonesa, lechuga y tomate frescos. (Pan árabe o francés)",
-        "price": "$19000"
+        "price": "$21000"
       },
       {
         "name": "SANDWICH DE LOMO MEXICANO",
         "description": "Lomito de ternera, jamón, queso, ajíes, salsa, guacamole, huevo, mayonesa, lechuga y tomate frescos. (Pan árabe o francés)",
-        "price": "$19000"
+        "price": "$21000"
       },
       {
         "name": "Lomo completo ",
         "description": "Pan frances o árabe\nJamón queso huevo lechuga tomate y papas",
-        "price": "18000"
+        "price": "19000"
       }
     ]
   },
@@ -196,17 +196,17 @@ export const menuData = [
       {
         "name": "SANDWICH DE MILANESA DE POLLO",
         "description": "Suprema de pollo de la casa, queso, huevo, lechuga y tomate fresca",
-        "price": "15000"
+        "price": "17000"
       },
       {
         "name": "SANDWICH DE MILANESA DE POLLO A LA NAPOLITANA",
         "description": "Suprema de pollo de la casa, jamón, queso, tomates en rodajas fresco, queso parmesano",
-        "price": "$15000"
+        "price": "$17000"
       },
       {
         "name": "SANDWICH DE MILANESA",
         "description": "Milanesa de ternera en pan",
-        "price": "$16000"
+        "price": "$17000"
       },
       {
         "name": "MILANESA DE TERNERA AL PLATO",
@@ -216,7 +216,7 @@ export const menuData = [
       {
         "name": "SANDWICH DE MILANESA DE TERNERA A LA NAPOLITANA",
         "description": "Milanesa de ternera de la casa, jamón, queso, tomates en rodajas fresco, queso parmesano",
-        "price": "$16000"
+        "price": "$17000"
       }
     ]
   },
@@ -227,22 +227,22 @@ export const menuData = [
       {
         "name": "SUPER HAMBURGUESA SIMPLE",
         "description": "Medallón de hamburguesa, mayonesa, queso y jamón",
-        "price": "$13000"
+        "price": "$14500"
       },
       {
         "name": "SUPER HAMBURGUESA COMPLETA",
         "description": "Medallón de hamburguesa, mayonesa, queso, jamón, verduras y huevo",
-        "price": "$14000"
+        "price": "$15500"
       },
       {
         "name": "Super Hamburguesa Baiconeta",
         "description": "Medallón carne panceta ahumada cebolla morada lechuga huevo papas fritas ",
-        "price": "16000"
+        "price": "17500"
       },
       {
         "name": "Súper Hamburguesa",
         "description": "Medallón de hamburguesa ketchup cebolla blanca jamón queso huevo lechuga y tomate\nPapas fritas",
-        "price": "16000"
+        "price": "17500"
       }
     ]
   },
@@ -258,17 +258,17 @@ export const menuData = [
       {
         "name": "PAPAS CON HUEVO",
         "description": "Papas fritas con huevo",
-        "price": "$8000"
+        "price": "9500"
       },
       {
         "name": "PAPAS CON CHEDDAR",
         "description": "Papas fritas con salsa cheddar",
-        "price": "$8000"
+        "price": "10000"
       },
       {
         "name": "PAPAS CON CHEDDAR COMPLETA",
         "description": "Papas fritas con cheddar y toppings completos",
-        "price": "$9000"
+        "price": "11000"
       }
     ]
   },
@@ -279,12 +279,12 @@ export const menuData = [
       {
         "name": "NUGGETS X 6 CON PAPAS",
         "description": "6 nuggets de pollo con papas fritas",
-        "price": "$5000"
+        "price": "8500"
       },
       {
         "name": "NUGGETS X 12 CON PAPAS",
         "description": "12 nuggets de pollo con papas fritas",
-        "price": "9000"
+        "price": "15000"
       }
     ]
   },
@@ -449,17 +449,17 @@ export const menuData = [
       {
         "name": "QUILMES STOUT CHICA",
         "description": "Cerveza Quilmes Stout chica",
-        "price": "$4300"
+        "price": "$4900"
       },
       {
         "name": "CORONA SIN ALCOHOL",
         "description": "Cerveza Corona sin alcohol",
-        "price": "$5000"
+        "price": "$6000"
       },
       {
         "name": "STELLA SIN ALCOHOL",
         "description": "Cerveza Stella Artois sin alcohol",
-        "price": "$5500"
+        "price": "$6000"
       },
       {
         "name": "CORONA CHICA",
@@ -474,12 +474,12 @@ export const menuData = [
       {
         "name": "BRAMAH GRANDE 1L",
         "description": "Cerveza Bramah 1 litro",
-        "price": "$7500"
+        "price": "8800"
       },
       {
         "name": "QUILMES STOUT GRANDE 1L",
         "description": "Cerveza Quilmes Stout 1 litro",
-        "price": "$8500"
+        "price": "$8900"
       },
       {
         "name": "STELLA NOIRE NEGRA 1L",
